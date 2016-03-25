@@ -1,3 +1,8 @@
-This is *Tetris DOJO*
+# Tetris DOJO
 
-You could let more details when project will be done =)
+This server implementation for play [Tetris] (https://en.wikipedia.org/wiki/Tetris) by you robot.
+In this case *robot* is your implementation of game client.
+
+##Game details:
+*Boar 10x20
+*7 Pieces (I, J, L, O, S, T, Z)
